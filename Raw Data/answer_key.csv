@@ -1,0 +1,27 @@
+trade_id,break_type,detail
+T00169,Missing in Broker,row removed
+T00061,Missing in Broker,row removed
+T00142,Missing in Broker,row removed
+T00031,Missing in Broker,row removed
+T00018,Quantity,600000 -> 700000
+T00029,Quantity,1100000 -> 1200000
+T00171,Quantity,1400000 -> 1500000
+T00110,Quantity,1000 -> 1100
+T00060,Price,3940.93 -> 3945.93
+T00070,Price,1.31112 -> 1.31312
+T00073,Price,1.31233 -> 1.31433
+T00004,Price,1.30011 -> 1.30211
+T00139,Within Tolerance (should match),1.31983 -> 1.31984
+T00126,Within Tolerance (should match),1.30792 -> 1.30793
+T00198,Within Tolerance (should match),1.15357 -> 1.15358
+T00064,Settle Date,+1 business day
+T00114,Settle Date,+1 business day
+T00157,Settle Date,+1 business day
+T00170,Side,BUY/SELL flipped
+T00193,Side,BUY/SELL flipped
+T00052,Side,BUY/SELL flipped
+T00075,Duplicate,row repeated in broker file
+T00002,Duplicate,row repeated in broker file
+T90001,Missing Internal,broker-only trade
+T90002,Missing Internal,broker-only trade
+T90003,Missing Internal,broker-only trade
